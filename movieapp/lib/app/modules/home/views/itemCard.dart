@@ -32,7 +32,7 @@ class ItemCard extends StatelessWidget {
                   style: TextStyle(fontSize: 16),
                 ),
                 Text(
-                  "10000",
+                  popularity.toString(),
                   style: TextStyle(fontSize: 16),
                 ),
                 Text(
